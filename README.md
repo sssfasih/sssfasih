@@ -29,17 +29,19 @@ Hi, I am a passionate programmer and an undergraduate Software Engineering stude
 <img align="left" alt="HTML5" height="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" height="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="Sass" height="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
+<img align="left" alt="Bootstrap" height="30px" src="https://cdn.worldvectorlogo.com/logos/bootstrap-5-1.svg" />
 <img align="left" alt="JavaScript" height="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img align="left" alt="Python" height="30px" src="https://cdn.worldvectorlogo.com/logos/python-5.svg" />
+<img align="left" alt="Django" height="30px" src="https://static.djangoproject.com/img/logos/django-logo-negative.svg" />
+<img align="left" alt="Flask" height="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png" />
 <img align="left" alt="Wordpress" height="30px" src="https://cdn.worldvectorlogo.com/logos/wordpress-blue.svg" />
 
 <img align="left" alt="SQL" height="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 
 <img align="left" alt="Git" height="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" height="30px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="HTML5" height="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+<img align="left" alt="Terminal" height="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
-<img align="left" alt="Vue" height="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" />
-<img align="left" alt="Python" height="30px" src="https://cdn.worldvectorlogo.com/logos/python-5.svg" />
-<img align="left" alt="Django" height="30px" src="https://static.djangoproject.com/img/logos/django-logo-negative.svg" />
-<img align="left" alt="Flask" height="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png" />
-<img align="left" alt="Visual Studio Code" height="30px" src="https://cdn.worldvectorlogo.com/logos/bootstrap-5-1.svg" />
+<!--img align="left" alt="Vue" height="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" / -->
+
+
