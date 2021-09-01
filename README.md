@@ -7,7 +7,7 @@
 <a href="https://www.linkedin.com/in/sssfasih/">
   <img align="left" alt="Fasih's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="sssfasih.me">
+<a href="https://syedfasih.me/">
   <img align="left" alt="Fasih's Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />
 </a> 
 
@@ -21,7 +21,7 @@ Hi, I am a passionate programmer and an undergraduate Software Engineering stude
 <!-- - 🔭 I’m currently working as an internee @ -->
 - 🌱 I’m currently learning Full stack development, using Javascript and Python frameworks.
 - 📫 How to reach me: sssfasih@gmail.com  & syed.fasihuddin@studentambassadors.com
-- ⚡ Fun fact:  I hacked my school's entire database 15 y/old
+- ⚡ Fun fact:  I hacked my school's entire database when i was 15 y/old
 
 **Languages and Tools:**  
 
