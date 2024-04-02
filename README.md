@@ -122,6 +122,8 @@
 
   <br/>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sssfasih&bg_color=ffffff&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![sssfasih's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sssfasih&bg_color=ffffff&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true)
+
+<img alt="GitHub Snake" src="https://raw.githubusercontent.com/sssfasih/sssfasih/output/github-contribution-grid-snake.svg" />
 
 </div>
