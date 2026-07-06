@@ -3,12 +3,12 @@
    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=1&pause=10000000&color=9e4c98&center=true&repeat=false&width=435&lines=Syed+Fasih+Uddin" alt="Syed Fasih Uddin" /></a>
 
   <a>
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I'm+Software+Engineer;Gold+Microsoft+Learn+Student+Ambassador;AI+Enthusiast&font=Fira%20Code&center=true&width=600&height=45&color=9e4c98&vCenter=true&pause=100&size=22" /></a>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I'm+Software+Engineer;Microsoft+Most+Valuable+Professional;AI+Enthusiast&font=Fira%20Code&center=true&width=600&height=45&color=9e4c98&vCenter=true&pause=100&size=22" /></a>
 </p>
 
 <!-- Social icons section -->
 <p align="center">
-<a href="https://sssfasih.azurewebsites.net/"><img src="https://img.shields.io/badge/personal website-F15B2A?style=for-the-badge&logo=firefox&logoColor=white"/></a>
+<a href="https://sssfasih.vercel.app/"><img src="https://img.shields.io/badge/portfolio website-F15B2A?style=for-the-badge&logo=firefox&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/sssfasih/"><img  alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0b5fbb?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://twitter.com/sssfasih"><img  alt="Twitter" title="Twitter" src="https://img.shields.io/badge/twitter-1c96e9?style=for-the-badge&logo=twitter&logoColor=white"/></a><br/>
 </a>
